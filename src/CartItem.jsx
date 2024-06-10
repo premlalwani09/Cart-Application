@@ -34,6 +34,7 @@
 //       dispatch({ type: 'REMOVE_ITEM', payload: item.id });
 //     }
 //   };
+
 import React from 'react';
 import { useCart } from './CartContext';
 
